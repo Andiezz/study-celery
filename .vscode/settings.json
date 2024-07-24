@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "./Python-Flask-Redis-Celery-Docker/Part 1/simple_worker"
+  ]
+}
